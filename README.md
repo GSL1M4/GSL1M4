@@ -5,9 +5,6 @@ Sou novo no mundo da programação,<br>
 mas tenho amplo conhecimento em informática(básico-Avançado)!<br>
 Ensino médio Completo(SESI)🏫<br>
 Sempre em busca do conhecimento!💡
-<style type="stylesheet">
-  background-color="white"
-</style>
 
 🧑‍💻Estudando(Atualmente):
 
