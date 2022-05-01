@@ -1,6 +1,6 @@
 Seja bem vindo ao meu perfil do GitHub:🥰
 
-Muito prazer, eu me chamo Gabriel!
+Muito prazer, eu me chamo <strong>Gabriel</strong>!
 Sou novo no mundo da programação,<br> 
 mas tenho amplo conhecimento em informática(básico-Avançado)!<br>
 Ensino médio Completo(SESI)🏫<br>
