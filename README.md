@@ -4,7 +4,7 @@ Muito prazer, eu me chamo <strong>Gabriel</strong>!
 Sou novo no mundo da programação,<br> 
 mas tenho amplo conhecimento em informática(básico-Avançado)!<br>
 Ensino médio Completo(SESI)🏫<br>
-Estou sempre aprendendo algo novo!💡
+Sempre em busca do conhecimento!💡
 
 🧑‍💻Estudando(Atualmente):
 
