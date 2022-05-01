@@ -13,7 +13,7 @@ Estou sempre aprendendo algo novo!💡
 -Css
 -Python(Básico)
           
-<div style="display: inline_block">
+<div style="display: inline">
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
             
             <img align="center" alt="GabiJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
