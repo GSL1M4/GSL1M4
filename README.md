@@ -12,7 +12,7 @@ Estou sempre aprendendo algo novo!💡
 -Html 
 -Css
 -Python(Básico)
-<div>
+<div style="display: inline-block"><br>
             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
