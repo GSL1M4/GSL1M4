@@ -1,16 +1,18 @@
-### Hi there 👋
+Seja bem vindo ao meu perfil do GitHub:🥰
 
-<!--
-**GSL1M4/GSL1M4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Muito prazer, eu me chamo Gabriel!
+Sou novo no mundo da programação, 
+mas tenho amplo conhecimento em informática(básico-Avançado)!
+Ensino médio Completo(SESI)🏫
+Estou sempre aprendendo algo novo!💡
 
-Here are some ideas to get you started:
+🧑‍💻Estudando(Atualmente):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-JavaScript![js-brands](https://user-images.githubusercontent.com/98130988/166143247-d2450b3b-cc30-467b-b307-b65748886e2f.svg)
+
+-Html![html5-brands](https://user-images.githubusercontent.com/98130988/166143286-3d3e2a34-4ee8-4a1e-88f3-90acd5cbe985.svg)
+
+-Css![css3-brands](https://user-images.githubusercontent.com/98130988/166143220-e9597425-f960-446b-a5ff-251d477f70d5.svg)
+
+-Python(Básico)![python-brands](https://user-images.githubusercontent.com/98130988/166143314-d2dcb06c-120d-4e01-87af-d64677b2379c.svg)
+
