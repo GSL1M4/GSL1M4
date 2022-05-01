@@ -8,9 +8,9 @@ Sempre em busca do conhecimento!💡
 
 🧑‍💻Estudando(Atualmente):
 
--JavaScript<br>
--Html<br> 
--Css<br>
+-JavaScript
+-Html
+-Css
 -Python
 <div>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
