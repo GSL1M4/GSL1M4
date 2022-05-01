@@ -12,7 +12,8 @@ Estou sempre aprendendo algo novo!💡
 -Html 
 -Css
 -Python(Básico)
-<div style="display: inline-block"><br>
+<div style="display: inline_block">
+            <br>
             
            
             <img align="center" alt="GabiJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
