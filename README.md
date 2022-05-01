@@ -11,7 +11,7 @@ Estou sempre aprendendo algo novo!💡
 -JavaScript<br>
 -Html<br> 
 -Css<br>
--Python(Básico)
+-Python
 <div>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>         
