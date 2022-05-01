@@ -2,7 +2,7 @@ Seja bem vindo ao meu perfil do GitHub:🥰
 
 Muito prazer, eu me chamo Gabriel!
 Sou novo no mundo da programação, 
-mas tenho amplo conhecimento em informática(básico-Avançado)!
+mas tenho amplo conhecimento em informática(básico-Avançado)!<br>
 Ensino médio Completo(SESI)🏫
 Estou sempre aprendendo algo novo!💡
 
