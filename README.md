@@ -12,16 +12,13 @@ Estou sempre aprendendo algo novo!💡
 -Html 
 -Css
 -Python(Básico)
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<div style="display: inline">
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-            
-            <img align="center" alt="GabiJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/javascript/javascript-plain.svg" />
           
-            <img align="center" alt="GabiHTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/html5/html5-original.svg" />
-          
-            <img align="center" alt="GabiCSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/css3/css3-original.svg" />
-          
-            <img align="center" alt="GabiPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/python/python-original.svg" />
+<div style="display: inline_block"><br>
+ <img align="center" alt="GabiJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/javascript/javascript-plain.svg" />
+ <img align="center" alt="GabiHTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/html5/html5-original.svg" />
+ <img align="center" alt="GabiCSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/css3/css3-original.svg" />
+ <img align="center" alt="GabiPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/python/python-original.svg" />
           
 </div>
