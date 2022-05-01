@@ -8,11 +8,13 @@ Estou sempre aprendendo algo novo!💡
 
 🧑‍💻Estudando(Atualmente):
 
--JavaScript![js-brands](https://user-images.githubusercontent.com/98130988/166143247-d2450b3b-cc30-467b-b307-b65748886e2f.svg)
+-JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
--Html![html5-brands](https://user-images.githubusercontent.com/98130988/166143286-3d3e2a34-4ee8-4a1e-88f3-90acd5cbe985.svg)
+-Html 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
--Css![css3-brands](https://user-images.githubusercontent.com/98130988/166143220-e9597425-f960-446b-a5ff-251d477f70d5.svg)
+-Css
 
--Python(Básico)
+-Python(Básico)
 
