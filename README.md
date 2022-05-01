@@ -14,5 +14,5 @@ Estou sempre aprendendo algo novo!💡
 
 -Css![css3-brands](https://user-images.githubusercontent.com/98130988/166143220-e9597425-f960-446b-a5ff-251d477f70d5.svg)
 
--Python(Básico)![python-brands](https://user-images.githubusercontent.com/98130988/166143314-d2dcb06c-120d-4e01-87af-d64677b2379c.svg)
+-Python(Básico)
 
