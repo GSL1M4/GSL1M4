@@ -6,7 +6,7 @@ mas gosto muito de aprender coisas novas, apesar de não ser muito bom em lógic
 Cursando (CST) Sistemas para Internet (UNICESUMAR)🏫<br>
 Conhecimento em informática(básico-Avançado)💡<br>
 Conhecimentos em lógica de programação💡<br>
-Inglês (básico-Intermediário)💡<br>
+Inglês (básico)💡<br>
 
 
 🧑‍💻Estudando(Atualmente):
