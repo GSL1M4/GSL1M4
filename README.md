@@ -2,7 +2,8 @@ Seja bem vindo ao meu perfil do GitHub:🥰
 
 Muito prazer, eu me chamo <strong>Gabriel</strong>!
 Iniciei a pouco tempo no mundo da programação,
-mas gosto muito de aprender coisas novas, apesar de não ser muito bom em lógica matemática.<br> 
+mas gosto muito de aprender coisas novas, 
+apesar de não ser muito bom em lógica matemática.<br> 
 Cursando (CST) Sistemas para Internet (UNICESUMAR)🏫<br>
 Conhecimento em informática(básico-Avançado)💡<br>
 Conhecimentos em lógica de programação💡<br>
