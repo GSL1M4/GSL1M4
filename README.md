@@ -2,10 +2,10 @@ Seja bem vindo ao meu perfil do GitHub:🥰
 
 Muito prazer, eu me chamo <strong>Gabriel</strong>!
 Iniciei a pouco tempo no mundo da programação!
-sou apaixonado por games e tecnologia!
+Sou apaixonado por games e tecnologia!
 Gosto muito de aprender coisas novas, 
 apesar de não ser muito bom em lógica matemática,
-sempre tento dar o meu melhor!<br>
+sempre tento dar o meu melhor! Estamos aqui para aprender né!<br>
 
 Conhecimentos:
 
