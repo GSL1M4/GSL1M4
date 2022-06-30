@@ -1,16 +1,22 @@
 Seja bem vindo ao meu perfil do GitHub:🥰
 
 Muito prazer, eu me chamo <strong>Gabriel</strong>!
-Iniciei a pouco tempo no mundo da programação,
-mas gosto muito de aprender coisas novas, 
-apesar de não ser muito bom em lógica matemática.<br> 
-Cursando (CST) Sistemas para Internet (UNICESUMAR)🏫<br>
-Conhecimento em informática(básico-Avançado)💡<br>
-Conhecimentos em lógica de programação💡<br>
+Iniciei a pouco tempo no mundo da programação!
+sou apaixonado por games e tecnologia!
+Gosto muito de aprender coisas novas, 
+apesar de não ser muito bom em lógica matemática,
+sempre tento dar o meu melhor!<br>
+
+Conhecimentos:
+
+Informática(básico-Avançado)💡<br>
+Lógica de programação💡<br>
 Inglês (básico)💡<br>
 
 
 🧑‍💻Estudando(Atualmente):
+
+Cursando (CST) Sistemas para Internet (UNICESUMAR)🏫<br>
 
 -C
 -JavaScript
