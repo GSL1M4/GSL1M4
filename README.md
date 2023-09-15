@@ -11,7 +11,7 @@ Conhecimentos:
 
 #Informática(básico-Avançado)💡<br>
 #Lógica de programação e Orientação a Objetos💡<br>
-#Inglês (intermediário)💡<br>
+#Inglês (básico-intermediário)💡<br>
 #Conhecimentos básicos em JAVA, PHP, HTML e CSS💡
 
 🧑‍💻Estudando(Atualmente):
