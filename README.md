@@ -1,15 +1,17 @@
 Seja bem vindo ao meu perfil do GitHub:🥰
 
-Muito prazer, eu me chamo <strong>Gabriel</strong>! Iniciei a pouco tempo no mundo da programação, mas ja sei aonde quero chegar então o caminho é mais facil até meu objetivo!<br> Sou apaixonado por games e tecnologia! 
-Gosto muito de aprender coisas novas, e sempre tento dar o meu melhor apesar das dificuldades da vida!<br>
-Tenho muita empatia, tenho pensamento e olhar crítico para tudo e amo ajudar os outros em coisas que tenho mais facilidade, e nas que tenho dificuldade procuro me aperfeiçoar sempre!
-Tenho muita facilidade em receber críticas desde que sejam construtivas, acredito que isso é muito importante para meu desenvolvimento como pessoa e profissional!<br>
+Olá, meu nome é Gabriel e sou apaixonado por games e tecnologia.<br>
+Adoro aprender coisas novas e busco sempre dar o meu melhor, apesar dos desafios.<br>
+Tenho facilidade em desenvolver empatia pelas pessoas e um olhar crítico sobre o mundo.<br>
+Gosto de ajudar nas áreas em que me sinto mais confortável e busco aprimorar minhas habilidades onde encontro dificuldades.<br>
+Recebo bem críticas construtivas, acreditando que elas contribuem para meu crescimento pessoal e profissional.<br>
+
 
 Conhecimentos:
 
 #Informática(básico-Avançado)💡<br>
 #Lógica de programação e Orientação a Objetos💡<br>
-#Inglês (básico)💡<br>
+#Inglês (intermediário)💡<br>
 #Conhecimentos básicos em JAVA, PHP, HTML e CSS💡
 
 🧑‍💻Estudando(Atualmente):
