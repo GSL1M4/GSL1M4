@@ -14,6 +14,6 @@ Conhecimentos:
 #Conhecimentos básicos em JAVA, PHP, HTML e CSS💡
 
 🧑‍💻Educação:
-#Formado em Tecnologia em Sistemas para Internet (UNICESUMAR)🏫<br>
+#Formado em Sistemas para Internet (UNICESUMAR)🏫<br>
 
 
