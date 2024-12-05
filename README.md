@@ -13,7 +13,7 @@ Conhecimentos:
 #Inglês (básico-intermediário)💡<br>
 #Conhecimentos básicos em JAVA, PHP, HTML e CSS💡
 
-🧑‍💻Estudando(Atualmente):
-#Tecnologia em Sistemas para Internet (UNICESUMAR)🏫<br>
+🧑‍💻Educação:
+#Formado em Tecnologia em Sistemas para Internet (UNICESUMAR)🏫<br>
 
 
