@@ -1,10 +1,7 @@
-Seja bem vindo ao meu perfil do GitHub:🥰
+Olá! Sou Gabriel,
 
-Entusiasta da tecnologia e comprometido com a inclusão,<br>
-estou aberto a oportunidades em diversas áreas da tecnologia,<br>
-com foco em projetos que promovam a acessibilidade. <br>
-Tenho grande interesse em desenvolver minhas habilidades como Desenvolvedor de Sistemas e contribuir para um futuro mais inclusivo.<br>
-
+Entusiasta da tecnologia e apaixonado por desenvolvimento de sistemas, busco oportunidades para aplicar
+meus conhecimentos e contribuir para projetos inovadores, com foco em acessibilidade e impacto social.
 
 Conhecimentos:
 
