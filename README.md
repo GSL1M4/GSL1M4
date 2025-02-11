@@ -8,12 +8,12 @@ Tenho grande interesse em desenvolver minhas habilidades como Projetista de Sist
 
 Conhecimentos:
 
-#Informática(básico-Avançado)💡<br>
-#Lógica de programação e Orientação a Objetos💡<br>
+#Lógica de programação, POO e Métodologias Ágeis,💡<br>
+#Conhecimentos em JAVA, Spring Boot, BD relacional💡<br>
+#Conhecimentos básicos em PHP, HTML, CSS e C💡<br>
+#Conhecimentos em OS Linux e Windows💡<br>
 #Inglês (básico-intermediário)💡<br>
-#Conhecimentos básicos em JAVA, PHP, HTML e CSS💡
 
 🧑‍💻Educação:
-#Formado em Sistemas para Internet (UNICESUMAR)🏫<br>
-
-
+#Sistemas para Internet (UNICESUMAR)Concluido🏫<br>
+#PÓS-GRADUAÇÃO LATO SENSU EM DESENVOLVIMENTO DE SISTEMAS COM JAVA (UNICESUMAR)Cursando🏫<br>
