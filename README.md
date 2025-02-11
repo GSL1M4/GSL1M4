@@ -14,6 +14,7 @@ Conhecimentos:
 #Conhecimentos em OS Linux e Windows💡<br>
 #Inglês (básico-intermediário)💡<br>
 
-🧑‍💻Educação:<br>
+🧑‍💻Educação:
+
 #Sistemas para Internet (UNICESUMAR)Concluido🏫<br>
 #PÓS-GRADUAÇÃO LATO SENSU EM DESENVOLVIMENTO DE SISTEMAS COM JAVA (UNICESUMAR)Cursando🏫<br>
