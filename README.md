@@ -3,7 +3,7 @@ Seja bem vindo ao meu perfil do GitHub:🥰
 Entusiasta da tecnologia e comprometido com a inclusão,<br>
 estou aberto a oportunidades em diversas áreas da tecnologia,<br>
 com foco em projetos que promovam a acessibilidade. <br>
-Tenho grande interesse em desenvolver minhas habilidades como Projetista de Sistemas e contribuir para um futuro mais inclusivo.<br>
+Tenho grande interesse em desenvolver minhas habilidades como Desenvolvedor de Sistemas e contribuir para um futuro mais inclusivo.<br>
 
 
 Conhecimentos:
